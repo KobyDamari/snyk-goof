@@ -21,7 +21,7 @@
     "@snyk/nodejs-runtime-agent": "^1.31.0",
     "adm-zip": "0.4.11",
     "body-parser": "1.9.0",
-    "cfenv": "^1.0.4",
+    "cfenv": "^1.2.5",
     "consolidate": "0.14.5",
     "cookie-parser": "1.3.3",
     "droppy": "^12.2.0",
@@ -36,7 +36,7 @@
     "humanize-ms": "1.0.1",
     "influx": "5.0.5",
     "jquery": "^2.2.4",
-    "lodash": "4.17.4",
+    "lodash": "4.17.23",
     "marked": "0.3.5",
     "method-override": "latest",
     "moment": "2.15.1",
@@ -45,11 +45,11 @@
     "ms": "^0.7.1",
     "npmconf": "0.0.24",
     "optional": "^0.1.3",
-    "sequelize": "5.1.0",
-    "snyk": "^1.290.2",
+    "sequelize": "6.1.0",
+    "snyk": "^1.996.0",
     "st": "0.2.4",
     "stream-buffers": "^3.0.1",
-    "tap": "^5.7.0"
+    "tap": "^18.0.0"
   },
   "devDependencies": {
     "browserify": "^13.1.1"
